@@ -20,8 +20,8 @@ const IMAGES = [
     span: "row-span-2",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5877623201272106939_y-G3y9tlqscxA7VVwKd1AxvABJOI5Bc4.jpg",
-    alt: "Braided cornrows with fade and beard detailing in studio",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791789_y-7vDdi1aNfbu6WVv0qMfhOQjaaNwx0j.jpg",
+    alt: "Two clients at professional barber convention with Level3 signage",
     span: "md:col-span-2",
   },
   {
@@ -70,8 +70,8 @@ const IMAGES = [
     span: "row-span-2",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791789_y-7vDdi1aNfbu6WVv0qMfhOQjaaNwx0j.jpg",
-    alt: "Two clients at professional barber convention with Level3 signage",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5877623201272106939_y-G3y9tlqscxA7VVwKd1AxvABJOI5Bc4.jpg",
+    alt: "Braided cornrows with fade and beard detailing in studio",
     span: "md:col-span-2",
   },
   {
