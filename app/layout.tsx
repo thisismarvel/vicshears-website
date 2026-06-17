@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     'VicShears: Bloomberg-certified barber known for blurry fades, surgical lineups, and intricate design work. Private suites, luxury apartments, and yacht-deck sessions. Book now.',
   generator: 'v0.app',
   icons: {
-    icon: "/favicon.ico",
+    icon: "/favicon.png",
   },
 }
 
