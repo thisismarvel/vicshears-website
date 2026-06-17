@@ -35,11 +35,6 @@ const IMAGES = [
     span: "row-span-2",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5877623201272106940_y-MElmLDbSgn9n16E1ATCDNAHxne2i1k.jpg",
-    alt: "Victor of VicShears in a tailored suit",
-    span: "",
-  },
-  {
     src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791786_y-T9CZdnMbbTvKA9KgC247VLD4nQPkU9.jpg",
     alt: "Professional barbering session at Babyliss PRO event with blue cape",
     span: "md:col-span-2",
