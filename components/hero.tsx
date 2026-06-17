@@ -39,7 +39,7 @@ export function Hero() {
             rel="noopener noreferrer"
             className="rounded-full bg-gold px-8 py-4 text-center text-sm font-medium uppercase tracking-[0.15em] text-primary-foreground transition-opacity hover:opacity-90"
           >
-            Book on Booksy
+            Book Your Appointment
           </a>
           <a
             href="#gallery"
