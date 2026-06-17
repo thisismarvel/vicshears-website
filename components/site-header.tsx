@@ -33,11 +33,12 @@ export function SiteHeader() {
       }`}
     >
       <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 lg:px-8">
-        <a
-          href="#top"
-          className="font-serif text-2xl font-semibold tracking-[0.18em] text-foreground"
-        >
-          VIC<span className="text-gold">SHEARS</span>
+        <a href="#top" className="flex items-center">
+          <img
+            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Main%20Logo%20%28on%20Black%20bg%29-RYV9unZkVHbcgLBegAIYr5pmL73q3M.png"
+            alt="VicShears - Top Echelon Barber"
+            className="h-14 w-auto"
+          />
         </a>
 
         <nav className="hidden items-center gap-9 md:flex">
