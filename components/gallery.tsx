@@ -39,6 +39,51 @@ const IMAGES = [
     alt: "Victor of VicShears in a tailored suit",
     span: "",
   },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791786_y-T9CZdnMbbTvKA9KgC247VLD4nQPkU9.jpg",
+    alt: "Professional barbering session at Babyliss PRO event with blue cape",
+    span: "md:col-span-2",
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791791_y-SglmGFtutqy6B3vpMOGSTNrEHQ8W2b.jpg",
+    alt: "Geometric line design carved into fade in luxury apartment",
+    span: "",
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791787_y-60iylZRDs321LgTUnop385MdcurJZe.jpg",
+    alt: "Elegant fade with neon barber shop window in background",
+    span: "row-span-2",
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791793_y-ypRmIi399rFGLxrmqiYCe2e2DarAP1.jpg",
+    alt: "High-fade mohawk design with clean lines",
+    span: "",
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791792_y-HN9RdbFkruo633PlmM4daRQNqBZbmo.jpg",
+    alt: "Artistic braids and hair design work from above",
+    span: "",
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791788_y-sGh0MjkeqJTZwhqNbkcO78qlYIIPZm.jpg",
+    alt: "Profile shot of sharp fade with braids in professional setting",
+    span: "row-span-2",
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791789_y-7vDdi1aNfbu6WVv0qMfhOQjaaNwx0j.jpg",
+    alt: "Two clients at professional barber convention with Level3 signage",
+    span: "md:col-span-2",
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791794_y-KC7Z14wVg3T5LWSQrOXb3MNpAjCvfP.jpg",
+    alt: "Two clients showing off fade designs in lounge",
+    span: "",
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5879875001085791790_y-aDeqq0x2kyfMxc1tz0AWyW4Tuh47SH.jpg",
+    alt: "Two clients in modern orange-lit luxury barber lounge",
+    span: "",
+  },
 ]
 
 export function Gallery() {

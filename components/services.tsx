@@ -110,7 +110,7 @@ export function Services() {
             <span className="h-px w-10 bg-gold" />
           </p>
           <h2 className="font-serif text-4xl font-semibold leading-tight text-foreground text-balance sm:text-5xl">
-            The <span className="text-gold">Menu</span>
+            The <span className="text-gold">Services</span>
           </h2>
           <p className="mt-4 leading-relaxed text-muted-foreground">
             Every service delivered at top-echelon standard — in the shop, your
